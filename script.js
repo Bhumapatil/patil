@@ -1,5 +1,5 @@
 function sendEmail() {
-    const recipient = "krushnashahane17592@gmail.com";
+    const recipient = "bhushangopal9588@gmail.com";
     const subject = "";
     const body = "";
   
